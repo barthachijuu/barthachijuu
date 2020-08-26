@@ -38,8 +38,9 @@ I'm currently working for [LunaLabs](https://www.lunalabs.it/), as a software an
 
 ### You can find me here 💌
 
-| [<img width="32px" src="images/linkedin.svg" />](https://www.linkedin.com/in/bartoloamico/) | [<img width="32px" src="images/twitter.svg" />](https://www.twitter.com/barthachijuu/) | [<img width="32px" src="images/web.svg" />](https://barthachijuu.dev/) | [<img width="32px" src="images/mail.svg" />](mailto:me@barthachijuu.dev) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| LinkedIn                                                     | Twitter                                                      | WebSite                                                      | Mail                                                         |
+ [<img width="32px" src="images/linkedin.svg" />](https://www.linkedin.com/in/bartoloamico/)
+ [<img width="32px" src="images/twitter.svg" />](https://www.twitter.com/barthachijuu/)
+ [<img width="32px" src="images/web.svg" />](https://barthachijuu.dev/)
+ [<img width="32px" src="images/mail.svg" />](mailto:me@barthachijuu.dev)
 
 <img src="images/me_close.png" alt="Hero image">
