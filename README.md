@@ -1,4 +1,4 @@
-<img src="images/me_open.png" alt="Hero image">
+<img src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/me_open.png" alt="Hero image">
 
 # About me 👔
 
@@ -25,22 +25,23 @@ I'm currently working for [LunaLabs](https://www.lunalabs.it/), as a software an
 
 #### Language and Tools: 🔨
 
-<code><img height="32" src="images/javascript.png"></code>
-<code><img height="32" src="images/vue.png"></code>
-<code><img height="32" src="images/react.png"></code>
-<code><img height="32" src="images/node.png"></code>
-<code><img height="32" src="images/webpack.png"></code>
-<code><img height="32" src="images/git.png"></code>
-<code><img height="32" src="images/yarn.png"></code>
-<code><img height="32" src="images/terminal.svg"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/javascript.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/vue.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/react.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/node.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/webpack.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/git.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/yarn.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/terminal.svg"></code>
 
 <hr />
 
 ### You can find me here 💌
 
- [<img width="32px" src="images/linkedin.svg" />](https://www.linkedin.com/in/bartoloamico/)
- [<img width="32px" src="images/twitter.svg" />](https://www.twitter.com/barthachijuu/)
- [<img width="32px" src="images/web.svg" />](https://barthachijuu.dev/)
- [<img width="32px" src="images/mail.svg" />](mailto:me@barthachijuu.dev)
-
-<img src="images/me_close.png" alt="Hero image">
+<ul style="list-style: none; display: flex; margin: 50px auto">
+  <li style="margin: 0 30px 0 300px"><a href="https://www.linkedin.com/in/bartoloamico/"><img width="32px" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/linkedin.svg" /></a></li>
+  <li style="margin: 0 30px"><a href="https://www.twitter.com/barthachijuu/"><img width="32px" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/twitter.svg" /></a></li>
+  <li style="margin: 0 30px"><a href="https://barthachijuu.dev/"><img width="32px" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/web.svg" /></a></li>
+  <li style="margin: 0 30px"><a href="mailto:me@barthachijuu.dev"><img width="32px" src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/mail.svg" /></a></li>
+</ul>
+<img src="https://raw.githubusercontent.com/barthachijuu/barthachijuu/master/images/me_close.png" alt="Hero image">
