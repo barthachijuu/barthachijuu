@@ -1,4 +1,4 @@
-# Hello there, I'm [Bart (aka bartahchijuu)](https://github.com/bartahchijuu) 👋
+# Hello there, I'm [Bart (aka barthachijuu)](https://github.com/bartahchijuu) 👋
 
 ## About me 👔
 
