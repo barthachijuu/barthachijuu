@@ -1,4 +1,4 @@
-# Hello there, I'm [Bart (aka barthachijuu)](https://github.com/bartahchijuu) 👋
+# Hello there, I'm [Bart (aka bartahchijuu)](https://bartahchijuu.dev) 👋
 
 ## About me 👔
 
@@ -18,9 +18,10 @@ I'm currently working for [LunaLabs](https://www.lunalabs.it/), as a software an
 
 <p><i>I'm not only a coder 🤙</i><p>
 
-- Listen to my favorite playlist while coding 🎶 [MakeDevFast](https://www.youtube.com/playlist?list=PLVzbkkMnVAXavcvTn_7yRydaDeXkZdf4X)
+- Listen to my favorite playlist while coding 🎶 [HackingYourMind](https://www.youtube.com/playlist?list=PLVzbkkMnVAXblFWOQJcwOZdjlIsvGapNI)
 - Spent a lot of my time after work, with my two adorable children and my wife 👨‍👩‍👦‍👦
 - Try to create good open source project. ⭐️
+- Watch Anime and read Manga
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=barthachijuu&show_icons=true&theme=tokyonight&include_all_commits=true)
 <br><br>
@@ -61,6 +62,25 @@ in the banking sector. I take care of the architectural management and frontend 
 | Fe React Ark    | A very scalable architecture, with the best technologies,            | JS / React.js | [FeReactArk](https://github.com/barthachijuu/FeReactArk)          |
 | Barthachijuu io | A static single-page application developed using React.js            | JS / React.js | [barthachijuu.io](https://github.com/barthachijuu/barthachijuu.io)|
 
+## All my other project
+
+| Name            | Description                                                          | Language      | Repo                                                              |
+| --------------- | -------------------------------------------------------------------- | ------------- | ----------------------------------------------------------------  |
+| Circularmenu    | A very simple circular menu, developed in VanillaJS and animated with CSS3|JS /CSS|[Circularmenu](https://github.com/barthachijuu/circularmenu)|
+|Barthachijuu            | This presentation Readme                                     | MD       |[barthachijuu](https://github.com/barthachijuu/barthachijuu)|
+
+</details>
+<hr />
+
+<details>
+<summary>
+  A little bit of stats
+</summary>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barthachijuu&theme=tokyonight&date_format=%5BY%20%5DM%20j&ring=19B00A&fire=DD2727)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 <hr />
 
