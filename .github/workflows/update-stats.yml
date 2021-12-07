@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: barthachijuu/waka-profile-stats@master #PLEASE USE MASTER BRANCH
+      - uses: barthachijuu/waka-profile-stats@main #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
