@@ -3,15 +3,30 @@ name: Barthachijuu Profile Stats
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
+    # Runs at 00:00AM UTC Every SUNDAY
+    - cron: '0 0 * * SUN'
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: barthachijuu/waka-profile-stats@feature/wakaApi #PLEASE USE MASTER BRANCH
-        with:
+      - uses: barthachijuu/waka-profile-stats@main #PLEASE USE MAIN BRANCH
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GQ_TOKEN: ${{ secrets.GQ_TOKEN }}
+          SHOW_TOTAL_TIME: "true"
+          SHOW_PROFILE: "true"
+          SHORT_INFO: "true"
+          SHOW_WAKASTAT: "true"
+          SHOW_COMMIT: "true"
+          SHOW_WEEK: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_EDITORS: "true"
+          SHOW_OS: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_LANGUAGE_PER_REPO: "true"
+          SHOW_UPDATE_DATE: "true"
+          COMMIT_BY_ME: "true"
+
