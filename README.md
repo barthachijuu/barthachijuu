@@ -80,16 +80,16 @@ in the banking sector. I take care of the architectural management and frontend 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barthachijuu&theme=tokyonight&date_format=%5BY%20%5DM%20j&ring=19B00A&fire=DD2727)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-38%20hrs%2039%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-6-red)
+![Profile Views](http://img.shields.io/badge/Profile_Views-21-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 38 Personal contributions in the last year
+🏆 39 Personal contributions in the last year
 
-🛡️ 207 Total contributions when i start a github profile
+🛡️ 208 Total contributions when i start a github profile
 
-💾 5.86 kB Used in Github's Storage
+💾 6.01 kB Used in Github's Storage
 
 🚫 Not Opted to hire
 
@@ -115,15 +115,15 @@ in the banking sector. I take care of the architectural management and frontend 
 
 📅 **I do my best effort on** Thursday
  ```text
-Monday       8 commits      ▒░░░░░░░░░░░░░░░░░░░░░░   9.76%
+Monday       8 commits      ▒░░░░░░░░░░░░░░░░░░░░░░   9.64%
 
-Tuesday      5 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░   6.1%
+Tuesday      5 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░   6.02%
 
-Wednesday    16 commits     ████░░░░░░░░░░░░░░░░░░░░   19.51%
+Wednesday    16 commits     ████░░░░░░░░░░░░░░░░░░░░   19.28%
 
-Thursday     37 commits     ███████████░░░░░░░░░░░░░   45.12%
+Thursday     38 commits     ███████████░░░░░░░░░░░░░   45.78%
 
-Friday       16 commits     ████░░░░░░░░░░░░░░░░░░░░   19.51%
+Friday       16 commits     ████░░░░░░░░░░░░░░░░░░░░   19.28%
 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
@@ -132,28 +132,34 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 🏷️ ***Languages*** 
 ```text
-JavaScript               13 hrs 2 mins       ████████████████████████   96.24%
+JavaScript               16 hrs 27 mins      █████████████████████░░░   85.57%
 
-Markdown                 28 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.54%
+Markdown                 1 hr 45 mins        ▒░░░░░░░░░░░░░░░░░░░░░░   9.13%
 
-Bash                     1 min               ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+YAML                     35 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
 
-JSON                     0 secs              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Bash                     23 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+
+JSON                     2 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 ```
 
 🧰 ***Editors*** 
 ```text
-VS Code                  13 hrs 32 mins      █████████████████████████   100%
+VS Code                  19 hrs 13 mins      █████████████████████████   100%
 ```
 
 📀 ***Operating System*** 
 ```text
-Linux                    13 hrs 32 mins      █████████████████████████   100%
+Linux                    19 hrs 13 mins      █████████████████████████   100%
 ```
 
 💻 ***Projects*** 
 ```text
-waka-profile-stats       13 hrs 32 mins      █████████████████████████   100%
+fe-architecture          0 secs              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+
+barthachijuu             41 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.59%
+
+waka-profile-stats       18 hrs 31 mins      ████████████████████████   96.35%
 ```
 
 ***I Mostly Code in*** CSS 
@@ -170,7 +176,7 @@ SCSS                     1 repo              ████░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Thu, 30 Dec 2021 22:38:15 GMT
+Fri, 31 Dec 2021 17:30:32 GMT
 <!--END_SECTION:waka-->
 </details>
 <hr />
