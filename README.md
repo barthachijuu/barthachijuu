@@ -80,16 +80,16 @@ in the banking sector. I take care of the architectural management and frontend 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barthachijuu&theme=tokyonight&date_format=%5BY%20%5DM%20j&ring=19B00A&fire=DD2727)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile_Views-21-red)
+![Code Time](http://img.shields.io/badge/Code_Time-40%20hrs%201%20min-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-21-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 0 Personal contributions in the last year
+🏆 1 Personal contributions in the last year
 
-🛡️ 209 Total contributions when i start a github profile
+🛡️ 210 Total contributions when i start a github profile
 
-💾 6.01 kB Used in Github's Storage
+💾 6.02 kB Used in Github's Storage
 
 🚫 Not Opted to hire
 
@@ -106,26 +106,26 @@ in the banking sector. I take care of the architectural management and frontend 
 ```text
 🌞 Morning   0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
-🌆 Daytime   22 commits     ██████████░░░░░░░░░░░░░░   40.74%
+🌆 Daytime   22 commits     ██████████░░░░░░░░░░░░░░░   40%
 
-🌉 Evening   32 commits     ██████████████░░░░░░░░░░   59.26%
+🌉 Evening   33 commits     ███████████████░░░░░░░░░░   60%
 
 🌕 Night     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
 📅 **I do my best effort on** Thursday
  ```text
-Monday       8 commits      ▒░░░░░░░░░░░░░░░░░░░░░░   9.52%
+Monday       8 commits      ▒░░░░░░░░░░░░░░░░░░░░░░   9.41%
 
-Tuesday      5 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░   5.95%
+Tuesday      5 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
-Wednesday    16 commits     ████░░░░░░░░░░░░░░░░░░░░   19.05%
+Wednesday    16 commits     ████░░░░░░░░░░░░░░░░░░░░   18.82%
 
-Thursday     38 commits     ███████████░░░░░░░░░░░░░   45.24%
+Thursday     38 commits     ███████████░░░░░░░░░░░░░   44.71%
 
-Friday       17 commits     █████░░░░░░░░░░░░░░░░░░░   20.24%
+Friday       17 commits     █████░░░░░░░░░░░░░░░░░░░░   20%
 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Saturday     1 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 ```
@@ -182,7 +182,7 @@ SCSS                     1 repo              ████░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sat, 01 Jan 2022 17:30:07 GMT
+Sun, 02 Jan 2022 17:30:02 GMT
 <!--END_SECTION:waka-->
 </details>
 <hr />
