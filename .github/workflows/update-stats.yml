@@ -15,7 +15,6 @@ jobs:
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GQ_TOKEN: ${{ secrets.GQ_TOKEN }}
           SHOW_TOTAL_TIME: "true"
           SHOW_PROFILE: "true"
           SHORT_INFO: "true"
@@ -28,5 +27,3 @@ jobs:
           SHOW_PROJECTS: "true"
           SHOW_LANGUAGE_PER_REPO: "true"
           SHOW_UPDATE_DATE: "true"
-          COMMIT_BY_ME: "true"
-

@@ -12,7 +12,7 @@ the frontend, until today, so as to define myself, a full stack (but who never l
 
 ## My job 👩🏻‍💻
 
-I'm currently working for [LunaLabs](https://www.lunalabs.it/), as a software analyst and professional consultant, mainly focused on the Front-end side.
+I'm currently working for [Reply](https://www.reply.it/), as a senior consultant, mainly focused on the Front-end side.
 
 ### Some other facts about me 🚀
 
@@ -64,12 +64,14 @@ in the banking sector. I take care of the architectural management and frontend 
 
 ## All my other project
 
-| Name            | Description                                                          | Language      | Repo                                                              |
+| Name           | Description                                                          | Language      | Repo                                                              |
 | --------------- | -------------------------------------------------------------------- | ------------- | ----------------------------------------------------------------  |
-| Circularmenu    | A very simple circular menu, developed in VanillaJS and animated with CSS3|JS /CSS|[Circularmenu](https://github.com/barthachijuu/circularmenu)|
-|Barthachijuu            | This presentation Readme                                     | MD       |[barthachijuu](https://github.com/barthachijuu/barthachijuu)|
+| waka-profile-stats | Wakatime Metrics Profile Readme                              | JS       | [waka-profile-stats](https://github.com/barthachijuu/waka-profile-stats) |
+| Circularmenu       | A very simple circular menu, developed in VanillaJS and animated with CSS3 | JS /CSS  | [Circularmenu](https://github.com/barthachijuu/circularmenu) |
+|Barthachijuu | This presentation Readme | MD |[barthachijuu](https://github.com/barthachijuu/barthachijuu)|
 
 </details>
+
 <hr />
 
 <details>
@@ -82,7 +84,7 @@ in the banking sector. I take care of the architectural management and frontend 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code_Time-40%20hrs%201%20min-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-21-red)
 
- **🤓 My Personal GitHub Info** 
+ **🤓 My Personal GitHub Info**
 
 ```properties
 🏆 8 Personal contributions in the last year
@@ -93,16 +95,16 @@ in the banking sector. I take care of the architectural management and frontend 
 
 🚫 Not Opted to hire
 
-📖 11 Public repos 
+📖 11 Public repos
 
-🔐 3 Private repos 
+🔐 3 Private repos
 
-🔃 15 Followers 
+🔃 15 Followers
 
-🔄 19 Following 
+🔄 19 Following
 
 ```
-📆 **Maybe i am a vampire 🧛** 
+📆 **Maybe i am a vampire 🧛**
 ```text
 🌞 Morning   0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
@@ -128,17 +130,17 @@ Friday       18 commits     ████░░░░░░░░░░░░░�
 Saturday     2 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
 
 Sunday       1 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
-```
+ ```
 
-🏷️ ***Languages*** 
+🏷️ ***Languages***
 No Activity Tracked This Week
-🧰 ***Editors*** 
+🧰 ***Editors***
 No Activity Tracked This Week
-📀 ***Operating System*** 
+📀 ***Operating System***
 No Activity Tracked This Week
-💻 ***Projects*** 
+💻 ***Projects***
 No Activity Tracked This Week
-***I Mostly Code in*** CSS 
+***I Mostly Code in*** CSS
 ```text
 CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░   16.67%
 
