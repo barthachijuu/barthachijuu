@@ -82,65 +82,97 @@ in the banking sector. I take care of the architectural management and frontend 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barthachijuu&theme=tokyonight&date_format=%5BY%20%5DM%20j&ring=19B00A&fire=DD2727)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-40%20hrs%201%20min-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-21-red)
+![Code Time](http://img.shields.io/badge/Code_Time-40%20hrs%2058%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-17-red)
 
- **🤓 My Personal GitHub Info**
+ **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 8 Personal contributions in the last year
+🏆 13 Personal contributions in the last year
 
-🛡️ 217 Total contributions when i start a github profile
+🛡️ 222 Total contributions when i start a github profile
 
-💾 6.04 kB Used in Github's Storage
+💾 6.32 kB Used in Github's Storage
 
 🚫 Not Opted to hire
 
-📖 11 Public repos
+📖 11 Public repos 
 
-🔐 3 Private repos
+🔐 2 Private repos 
 
-🔃 15 Followers
+🔃 15 Followers 
 
-🔄 19 Following
+🔄 19 Following 
 
 ```
-📆 **Maybe i am a vampire 🧛**
+📆 **Maybe i am a vampire 🧛** 
 ```text
 🌞 Morning   0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
-🌆 Daytime   22 commits     ████████░░░░░░░░░░░░░░░░   35.48%
+🌆 Daytime   16 commits     █████░░░░░░░░░░░░░░░░░░░   23.19%
 
-🌉 Evening   40 commits     ████████████████░░░░░░░░   64.52%
+🌉 Evening   43 commits     ███████████████░░░░░░░░░   62.32%
 
-🌕 Night     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+🌕 Night     10 commits     ▒░░░░░░░░░░░░░░░░░░░░░   14.49%
 ```
 
 📅 **I do my best effort on** Thursday
  ```text
-Monday       9 commits      ▒░░░░░░░░░░░░░░░░░░░░░░   9.78%
+Monday       8 commits      ▒░░░░░░░░░░░░░░░░░░░░░░   8.89%
 
-Tuesday      6 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░   6.52%
+Tuesday      8 commits      ▒░░░░░░░░░░░░░░░░░░░░░░   8.89%
 
-Wednesday    17 commits     ████░░░░░░░░░░░░░░░░░░░░   18.48%
+Wednesday    19 commits     █████░░░░░░░░░░░░░░░░░░░   21.11%
 
-Thursday     39 commits     ██████████░░░░░░░░░░░░░░   42.39%
+Thursday     32 commits     ████████░░░░░░░░░░░░░░░░   35.56%
 
-Friday       18 commits     ████░░░░░░░░░░░░░░░░░░░░   19.57%
+Friday       18 commits     █████░░░░░░░░░░░░░░░░░░░░   20%
 
-Saturday     2 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+Saturday     3 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
-Sunday       1 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
- ```
+Sunday       2 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+```
 
-🏷️ ***Languages***
-No Activity Tracked This Week
-🧰 ***Editors***
-No Activity Tracked This Week
-📀 ***Operating System***
-No Activity Tracked This Week
-💻 ***Projects***
-No Activity Tracked This Week
-***I Mostly Code in*** CSS
+🏷️ ***Languages*** 
+```text
+JavaScript               23 hrs 50 mins      █████████████████████░░░   84.69%
+
+Markdown                 2 hrs 58 mins       ▒░░░░░░░░░░░░░░░░░░░░░░   10.56%
+
+YAML                     45 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.71%
+
+Bash                     29 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
+
+JSON                     3 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+
+Other                    1 min               ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+```
+
+🧰 ***Editors*** 
+```text
+VS Code                  28 hrs 8 mins       █████████████████████████   100%
+```
+
+📀 ***Operating System*** 
+```text
+Linux                    28 hrs 7 mins       ████████████████████████   99.92%
+
+Windows                  1 min               ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+```
+
+💻 ***Projects*** 
+```text
+waka-profile-stats       27 hrs 5 mins       ████████████████████████   96.24%
+
+barthachijuu             56 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.36%
+
+circularmenu             3 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+
+circlemenu               1 min               ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+
+gitflow                  1 min               ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+```
+
+***I Mostly Code in*** CSS 
 ```text
 CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░   16.67%
 
@@ -154,7 +186,7 @@ SCSS                     1 repo              ████░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sun, 09 Jan 2022 17:30:45 GMT
+Tue, 18 Jan 2022 11:41:53 GMT
 <!--END_SECTION:waka-->
 </details>
 <hr />
