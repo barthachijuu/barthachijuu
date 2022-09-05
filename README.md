@@ -82,14 +82,14 @@ in the banking sector. I take care of the architectural management and frontend 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barthachijuu&theme=tokyonight&date_format=%5BY%20%5DM%20j&ring=19B00A&fire=DD2727)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-438%20hrs%2020%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-0-red)
+![Code Time](http://img.shields.io/badge/Code_Time-439%20hrs%2015%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-23-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 41 Personal contributions in the last year
+🏆 42 Personal contributions in the last year
 
-🛡️ 294 Total contributions when i start a github profile
+🛡️ 295 Total contributions when i start a github profile
 
 💾 52.40 kB Used in Github's Storage
 
@@ -108,28 +108,28 @@ in the banking sector. I take care of the architectural management and frontend 
 ```text
 🌞 Morning   0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
-🌆 Daytime   24 commits     █████░░░░░░░░░░░░░░░░░░░   23.76%
+🌆 Daytime   24 commits     █████░░░░░░░░░░░░░░░░░░░   23.53%
 
-🌉 Evening   64 commits     ███████████████░░░░░░░░░   63.37%
+🌉 Evening   65 commits     ███████████████░░░░░░░░░   63.73%
 
-🌕 Night     13 commits     ▒░░░░░░░░░░░░░░░░░░░░░   12.87%
+🌕 Night     13 commits     ▒░░░░░░░░░░░░░░░░░░░░░   12.75%
 ```
 
 📅 **I do my best effort on** Thursday
  ```text
-Monday       8 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░   6.45%
+Monday       9 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░   7.2%
 
-Tuesday      21 commits     ████░░░░░░░░░░░░░░░░░░░░   16.94%
+Tuesday      21 commits     ████░░░░░░░░░░░░░░░░░░░░   16.8%
 
-Wednesday    26 commits     █████░░░░░░░░░░░░░░░░░░░   20.97%
+Wednesday    26 commits     █████░░░░░░░░░░░░░░░░░░░   20.8%
 
-Thursday     40 commits     ████████░░░░░░░░░░░░░░░░   32.26%
+Thursday     40 commits     ████████░░░░░░░░░░░░░░░░░   32%
 
-Friday       22 commits     ████░░░░░░░░░░░░░░░░░░░░   17.74%
+Friday       22 commits     ████░░░░░░░░░░░░░░░░░░░░   17.6%
 
-Saturday     4 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+Saturday     4 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.2%
 
-Sunday       3 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+Sunday       3 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
 ```
 
 🏷️ ***Languages*** 
@@ -190,21 +190,21 @@ smartpayspa              4 mins              ▒░░░░░░░░░░�
 fe-hd-bancomat           0 secs              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 ```
 
-***I Mostly Code in*** CSS 
+***I Mostly Code in*** JavaScript 
 ```text
+JavaScript               5 repos             █████████████░░░░░░░░░░░   55.56%
+
+SCSS                     2 repos             █████░░░░░░░░░░░░░░░░░░░   22.22%
+
 CSS                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
-JavaScript               1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
 C                        1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-SCSS                     1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░   11.11%
 ```
 
 
 
 ⌚ ***Last Stats Update on***
-Mon, 05 Sep 2022 12:54:07 GMT
+Mon, 05 Sep 2022 13:51:03 GMT
 <!--END_SECTION:waka-->
 </details>
 <hr />
